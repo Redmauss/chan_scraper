@@ -4,6 +4,8 @@ This is a program I made in python for easy downloading of images from a 4chan t
 
 Installation Requirements:
 1. Firefox must be installed. 
+2. Selenium must be installed for python, with `pip install selenium`
+
 2. Geckowebdriver for selenium must be installed, directions here:
 https://selenium-python.readthedocs.io/installation.html
 3. Latest version of Python 3 must be installed. 
