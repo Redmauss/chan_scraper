@@ -14,7 +14,7 @@ https://selenium-python.readthedocs.io/installation.html
 
 The instructions is as follows:
 1. Input board to be searched
-2. Ask keyword to search for(wgscraper searches in thread titles)
+2. Ask keyword to search for(chanscraper searches in thread titles)
 3. chanscraper will now start searching through the thread titles for your keyword.  Thread titles will appear in the output.  If you want to download the thread, type "yes".  If you want to keep searching, type "no". 
 4. Type the filename you want for the files.  If you type "image" for filename, the folder with the files will all be named image + number of file downloaded.  So the first image will be image1 and the 35th image will be named image35 and so on.  
 5. Type the path you want to save the files.  It must be the full path in order to work, an example would be:
