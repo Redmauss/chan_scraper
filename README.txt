@@ -3,12 +3,14 @@ https://github.com/Redmauss/chan_scraper
 This is a program I made in python for easy downloading of images from a 4chan thread.  I made this so I could easily download batches of wallpapers from wg, but you can use this program with any board on 4chan. 
 
 Installation Requirements:
-1. Firefox must be installed. 
-2. Selenium must be installed for python, with `pip install selenium`
-
-2. Geckowebdriver for selenium must be installed, directions here:
+1. Latest version of Python 3 must be installed. 
+2. Selenium must be installed for python, with pip install selenium
+3. urllib must be installed for python, with pip install urllib
+4. Create a virtual environment for chan_scraper: 
+https://docs.python.org/3/library/venv.html
+5. Geckowebdriver for selenium must be installed, directions here:
 https://selenium-python.readthedocs.io/installation.html
-3. Latest version of Python 3 must be installed. 
+6. Firefox must be installed. 
 
 The instructions is as follows:
 1. Input board to be searched
